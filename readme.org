@@ -1,0 +1,3 @@
+* Dark Forest
+
+A turn-based zero-player game engine for simulating the development and downfall of galactic civilizations.

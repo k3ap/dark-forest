@@ -1,0 +1,20 @@
+* All todos
+** TODO Implement the information system
+** TODO Implement star habitability
+- Star systems have a certain habitability
+- This rating can change over time
+** TODO Implement civilization self-destruction
+** TODO Implement system for special technologies
+** TODO Implement special technologies
+*** TODO Colonization
+*** TODO RKV
+*** TODO K2 status
+*** TODO Telescopes
+Can detect the habitability rating of stars (and their existence).
+Can receive some types of information.
+*** TODO Interstellar probes
+Can detect the existence of other civilizations, if sent to the correct star system.
+Can receive some types of information and retransmit it back home.
+** TODO Implement information sharing
+** TODO Implement some other civilization strength measure
+Not just technological advancement, but maybe population count, industrialization?
