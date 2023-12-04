@@ -1,9 +1,14 @@
 #ifndef CIVILIZATION_HPP
 #define CIVILIZATION_HPP
 
+#include "information.hpp"
+
+#include <vector>
+
 class Civilization {
 private:
     unsigned int technology_level;
+    std::vector<Information> information;
 
 public:
     Civilization()
